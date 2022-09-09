@@ -1,0 +1,5 @@
+FLASK
+sklearn
+pandas
+numpy
+matplotlib
